@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background: hsl(189, 61%, 83%);
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+.countdown-title {
+  color: #396;
+  font-weight: 100;
+  font-size: 40px;
+  margin: 40px 0px 20px;
+}
+
+.timer {
+  padding-top: 30px;
+  font-family: sans-serif;
+  color: #ffffff;
+  display: inline-block;
+  font-weight: 100;
+  text-align: center;
+  font-size: 30px;
+}
+
+.field {
+  padding: 10px;
+  border-radius: 3px;
+  background: #0073bf;
+  display: inline-block;
+}
+
+.value {
+  padding: 15px;
+  border-radius: 3px;
+  background: #abcde4;
+  display: inline-block;
+}
+
+.label {
+  display: block;
+  padding-top: 5px;
+  font-size: 16px;
+}
